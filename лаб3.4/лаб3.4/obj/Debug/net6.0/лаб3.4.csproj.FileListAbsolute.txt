@@ -1,0 +1,28 @@
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.exe
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.deps.json
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.runtimeconfig.json
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.dll
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.pdb
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.AssemblyInfoInputs.cache
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.AssemblyInfo.cs
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.csproj.CoreCompileInputs.cache
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.dll
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\refint\лаб3.4.dll
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.pdb
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.genruntimeconfig.cache
+C:\Users\aaaaa\учёба\ТП\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\ref\лаб3.4.dll
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.exe
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.deps.json
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.runtimeconfig.json
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.dll
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\bin\Debug\net6.0\лаб3.4.pdb
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.AssemblyInfoInputs.cache
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.AssemblyInfo.cs
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.csproj.CoreCompileInputs.cache
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.dll
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\refint\лаб3.4.dll
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.pdb
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\лаб3.4.genruntimeconfig.cache
+C:\Users\aaaaa\учёба\2 курс\2 сем\ТП\1 сем\лб3\лаб3.4\лаб3.4\obj\Debug\net6.0\ref\лаб3.4.dll
